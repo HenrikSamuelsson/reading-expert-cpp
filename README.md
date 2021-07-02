@@ -14,7 +14,7 @@ Questions are from the book and the answers are my own, feel free to suggest cha
 
 Question 1
 
-How many parameters does the 'main()" function have?
+How many parameters does the `main()` function have?
 
 Answer 1
 
@@ -22,20 +22,20 @@ The main function shall have either zero or two parameters.
 
 A main function with zero parameters:
 
-'''
+```cpp
 int main()
 {
     // Code omitted.
 }
-'''
+```
 
 A main function with two parameters and the conventionally used parameter naming:
 
-'''
+```cpp
 int main(int argc, char *argv[])
 {
     // Code omitted.
 }
-'''
+```
 
-Note that non-standard C++ implementations can support a 'main()' function with other form of parameters, such as a third parameter 'char*[]' pointing at an array of pointers to the execution environment variables.
+Note that non-standard C++ implementations can support a `main()` function with other form of parameters, such as a third parameter `char*[]` pointing at an array of pointers to the execution environment variables.
