@@ -25,7 +25,7 @@ A main function with zero parameters:
 ```cpp
 int main()
 {
-    // Code omitted.
+    // Code intentionally omitted.
 }
 ```
 
@@ -34,7 +34,7 @@ A main function with two parameters and the conventionally used parameter naming
 ```cpp
 int main(int argc, char *argv[])
 {
-    // Code omitted.
+    // Code intentionally omitted.
 }
 ```
 
