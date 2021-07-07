@@ -10,6 +10,17 @@ Source files for the code in the book can be found at the official [Github repro
 
 Questions are from the book and the answers are my own, feel free to suggest changes to the answers should I have misunderstood anything.
 
+### Introduction to Builiding C++ Applications
+
+Question 1
+
+What is the difference between a compiler and an interpreter?
+
+Answer 1
+
+Both compilers and interpreters translates high level source code inte machine code. The difference is that an interpreter will do the translation progressively line by line at run-time when the program is to be executed and a compiler will do the entire translation at some point in time before the code is to be executed.
+
+
 ### Low-Level Programming with C++
 
 Question 1
